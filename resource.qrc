@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>rec/black_bing.png</file>
+        <file>rec/black_ju.png</file>
+        <file>rec/black_king.png</file>
+        <file>rec/black_ma.png</file>
+        <file>rec/black_pao.png</file>
+        <file>rec/black_shi.png</file>
+        <file>rec/black_xiang.png</file>
+        <file>rec/board.png</file>
+        <file>rec/red_bing.png</file>
+        <file>rec/red_ju.png</file>
+        <file>rec/red_king.png</file>
+        <file>rec/red_ma.png</file>
+        <file>rec/red_pao.png</file>
+        <file>rec/red_shi.png</file>
+        <file>rec/red_xiang.png</file>
+        <file>rec/timg.gif</file>
+    </qresource>
+</RCC>
